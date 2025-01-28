@@ -1,0 +1,7 @@
+---
+title: "Projects"
+
+[Project A](projecta/projecta.qmd)
+[Project B](projectb/projectb.qmd)
+---
+

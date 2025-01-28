@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Amazing Portfolio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "#About this site\nThis is an about me page"
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About",
+    "section": "Who am I?",
+    "text": "Who am I?"
+  },
+  {
+    "objectID": "about.html#where-did-you-come-from",
+    "href": "about.html#where-did-you-come-from",
+    "title": "About",
+    "section": "Where did you come from?",
+    "text": "Where did you come from?"
+  },
+  {
+    "objectID": "about.html#where-did-i-come-from",
+    "href": "about.html#where-did-i-come-from",
+    "title": "About",
+    "section": "Where did I come from?",
+    "text": "Where did I come from?"
+  },
+  {
+    "objectID": "about.html#mission-what-do-you-do-now",
+    "href": "about.html#mission-what-do-you-do-now",
+    "title": "About",
+    "section": "Mission: What do you do now?",
+    "text": "Mission: What do you do now?\nVision: Who do you aspire to become?"
+  },
+  {
+    "objectID": "about.html#what-is-your-personal-mission-and-vision",
+    "href": "about.html#what-is-your-personal-mission-and-vision",
+    "title": "About",
+    "section": "What is your personal mission and vision?:",
+    "text": "What is your personal mission and vision?:\nMission: What do you do now?\nVision: Who do you aspire to become?"
+  }
+]

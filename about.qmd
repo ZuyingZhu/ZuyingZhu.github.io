@@ -1,0 +1,20 @@
+---
+title: "About"
+---
+
+#About this site
+
+This is an about me page 
+
+## Who am I?
+
+
+## Where did I come from?
+
+
+## What is your personal mission and vision?:
+
+Mission: What do you do now?
+
+
+Vision: Who do you aspire to become?
